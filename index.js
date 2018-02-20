@@ -3,4 +3,3 @@ function doToElementsInArray(array, element) {
     return `Mmmm, ${element}!!!`;
 });
 }
-
