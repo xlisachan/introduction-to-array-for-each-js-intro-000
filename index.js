@@ -1,4 +1,5 @@
-// Add your doToElementsInArray() function here:
-
-
-// Add your changeCompletely() function here:
+function doToElementsInArray(array, element) {
+  array.forEach(element => {
+    console.log(`Mmmm, ${element}!!!`);
+  });
+  
